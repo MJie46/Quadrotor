@@ -1328,7 +1328,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf" H 7150 5350 50
 	1    7150 5350
 	0    1    1    0   
 $EndComp
-Text Label 7500 1800 0    50   ~ 0
+Text Label 7500 3900 0    50   ~ 0
 LED1
 Text Label 7500 1200 0    50   ~ 0
 USART2_TX
@@ -1501,4 +1501,11 @@ Wire Wire Line
 NoConn ~ 6100 3700
 NoConn ~ 7500 1100
 NoConn ~ 8000 2350
+NoConn ~ 7500 3000
+NoConn ~ 7500 3100
+NoConn ~ 7500 3200
+NoConn ~ 7500 4200
+NoConn ~ 7500 1400
+NoConn ~ 7500 1800
+NoConn ~ 7500 1600
 $EndSCHEMATC
